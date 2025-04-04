@@ -1,0 +1,16 @@
+.class {
+    background-color: #FF7F7F ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#id1 {
+    color:#0000FF ;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#id2 {
+    background-color:#90EE90 ;
+    font-size: 24px;
+    font-weight: bold;
+}
